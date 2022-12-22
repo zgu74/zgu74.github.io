@@ -102,6 +102,8 @@ https://github.com/zgu74/Setup-Guide.git
 
 ## Project Code
 
+[Project Code.zip](https://github.com/zgu74/zgu74.github.io/files/10289894/Project.Code.zip)
+
 # Project Development <a name="3"></a>
 
 We tried to develop our project step by step. We divided the project into three parts: the VGA function, the bluetooth function, and the combination. Since we had developed APDS 9960 in the previous labs, the distance detection was not listed as a major part. Because of online resources, we did not encounter too many difficulties when we set up the HC-05 bluetooth. There was also an bluetooth terminal App on Google Play Store so that we did not need to build an bluetooth terminal ourselves. The VGA part was the biggest challenge in the project. Thanks for the advice from Professor Banks. Troubleshooting will be discussed in the nest section. At last, we combined all components to achieve the function we designed in the proposal.
