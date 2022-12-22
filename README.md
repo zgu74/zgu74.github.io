@@ -24,7 +24,7 @@ This system equipped with a camera can capture the image of the visitor and remi
 
 ### Pico4ml
 
-![205468396-f7646e87-75a1-4214-ab9a-8d6017183e20](https://user-images.githubusercontent.com/113784775/209006169-25bd133d-46ec-4a9b-950c-a0bd813b3cc2.jpg)
+![205468396-f7646e87-75a1-4214-ab9a-8d6017183e20](https://user-images.githubusercontent.com/113784775/209045372-c8843e79-387b-4556-8c21-ccf0b099a38a.jpg)
 
 Amazon: https://www.amazon.com/Arducam-Pico4ML-TinyML-RP2040-Onboard/dp/B0919KQ7NV
 
@@ -42,13 +42,13 @@ Amazon: https://www.amazon.com/Pasow-Monitor-Cable-Computer-Projector/dp/B08B64K
 
 ### Buzzer
 
-![51zOdI55ndL _AC_SX679_](https://user-images.githubusercontent.com/113784775/209007383-f58d7216-e6b0-4916-b0c4-995bc2143a08.jpg)
+![51zOdI55ndL _AC_SX679_](https://user-images.githubusercontent.com/113784775/209045442-5163b8b3-a057-4ecc-81ac-f0a3eb5c85ff.jpg)
 
 Amazon: https://www.amazon.com/Cylewet-Electronic-Magnetic-Continuous-Arduino/dp/B01N7NHSY6
 
 ### QT Py RP2040
 
-![adafruit_qtpy_rp2040](https://user-images.githubusercontent.com/113784775/209007910-0feade88-cdfe-4d80-8020-d9d7c0c42eed.jpg)
+![adafruit_qtpy_rp2040](https://user-images.githubusercontent.com/113784775/209045525-7c645e30-88a0-469b-9aac-a1c83823e42b.jpg)
 
 Adafruit: https://www.adafruit.com/product/4900
 
@@ -68,7 +68,7 @@ Pico4ml is controlled by the A3 pin of QT Py RP2040. Remember that all devices n
 
 ### VGA Connection
 
-![image](https://user-images.githubusercontent.com/113784775/209008429-0c7eedca-1f97-473b-bcb6-910f6b9d54e3.png)
+![209008429-0c7eedca-1f97-473b-bcb6-910f6b9d54e3](https://user-images.githubusercontent.com/113784775/209045639-7f407ce2-0f60-412a-86eb-131d919688f7.png)
 
 ![微信图片_20221221165025](https://user-images.githubusercontent.com/113784775/209008699-a0992c8d-1428-441f-8dc7-fb4a902d96fd.jpg)
 
