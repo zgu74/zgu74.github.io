@@ -15,7 +15,7 @@
 House safeguard system is an effective measure to solve the security management at the entrance and exit of important departments. Applicable to various confidential departments, such as banks, hotels, parking lot management, computer rooms, factories, etc.
 
 This system equipped with a camera can capture the image of the visitor and remind the user the identification of the intruder coming in the building.
-Also, the camera switching would be decided by proximity of visitors, this feature developed the low-power mode for the safegyard system.  
+Also, users can realize bidirectional monitoring and control to the accees of their houses. More importantly, the camera switching would be decided by proximity of visitors, this feature developed the low-power mode for the safeguard system. 
 
 ![9468d6a5488b16e94c7766e25f1e825](https://user-images.githubusercontent.com/113784775/209005894-b024bc01-262d-42ec-a37d-ac682358e78c.jpg)
 
