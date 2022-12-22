@@ -168,7 +168,7 @@ Transmitting the image captured by the camera to the VGA display is a challenged
 
 # Team Member <a name="8"></a>
 
-Chenwei Tang
+Chenwei Tang: https://github.com/Chenwei-Tang
 
 Shuhan Qian
 
