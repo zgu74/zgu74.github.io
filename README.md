@@ -132,7 +132,9 @@ We enlarge the image to the whole display by changing pixel. The first picture i
 
 ![图片6](https://user-images.githubusercontent.com/113784775/209033369-3fd41644-c7cf-4cf4-a7ed-679028e4120c.jpg)
 
-We also try the image processing. The camera on Pico4ml is a monochrome HiMax HM01B0 camera. Eight colors represent eight grayscale levels. The brightness of most pixels on face are concentrated in [32,96). We expand this interval by a coefficient of 2. Therefore, there are more colors on the face, less on background. The image so shows more clearly. We use “pixel=pixel/32” to set pixels as 8 colors.
+We also implemted the image processing algorithm. The camera on Pico4ml is a monochrome HiMax HM01B0 camera. Eight colors represent eight grayscale levels. The brightness of most pixels on face are concentrated in [32,96). We expand this interval by a coefficient of 2. Therefore, there are more colors on the face, less on background. The image so shows more clearly. We use “pixel=pixel/32” to set pixels as 8 colors.  
+
+Compared with fuzzy and unclear images in baseline version, our optmized design is able to display face-recognizable image on the screen.
 
 ![屏幕截图 2022-12-21 202218](https://user-images.githubusercontent.com/113784775/209034186-0c902e39-b2d1-4f3e-ade4-a8fbec5843ff.png)
 
