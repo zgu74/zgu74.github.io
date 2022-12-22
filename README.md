@@ -170,6 +170,9 @@ The PIO modules in the design were used for the I/O interface,including the HC-0
 
 In PICO4ML code, we use hsync.pio, vsync.pio and rgb.pio to control the VGA output, among them, hsync.pio, vsync.pio decide how we put the pixels to the screen, for example from left to right or from bottom to top, rgb.pio decides which color we want to display. Then we use image.pio to process the camera data. And in QT py RP2040 code, we use i2c.pio to communicate with APDS9960 and read data from it.
 
+![image](https://user-images.githubusercontent.com/113784775/209220211-34255812-c8e7-40f4-ab0b-958c8422822a.png)
+
+
 # Team Member <a name="8"></a>
 
 Chenwei Tang: https://github.com/Chenwei-Tang
